@@ -1,0 +1,19 @@
+{
+  "name": "passportapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.15.2",
+    "csvtojson": "^2.0.4",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.11.11"
+  }
+}
